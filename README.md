@@ -35,4 +35,4 @@ All pull requests are welcome !
 
 ## License
 
-CountPages uses the MIT license. See LICENSE for more details.
+Gravimage uses the MIT license. See LICENSE for more details.
