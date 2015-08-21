@@ -12,6 +12,7 @@ A tiny client for [Gravatar](https://secure.gravatar.com/). It just convert an e
 | ----------|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
 | Gravimage |     x     |     x     |     x    |          |     x    |    x     |    x     |
 
+_[learn more](https://secure.gravatar.com/site/implement/images/)_
 
 ## Feature Done v1.1.0.0
 
