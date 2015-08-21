@@ -59,7 +59,7 @@ namespace Gravimage
 
         // http://stackoverflow.com/q/424366
         /// <summary>
-        /// Gets the link to avatar by gravatar.
+        /// Gets the link to avatar by Gravatar.
         /// </summary>
         /// <param name="content">The content (email).</param>
         /// <param name="size">The size of avatar.</param>
