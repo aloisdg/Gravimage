@@ -1,6 +1,6 @@
 # Gravimage
 
-A tiny client for [Gravatar](https://secure.gravatar.com/). It just converts an email to an image url. Get the last release of Gravimage on [NuGet](https://www.nuget.org/packages/Gravimage/) or on [GitHub](https://github.com/aloisdg/Gravimage/releases).
+A tiny client for [Gravatar](https://secure.gravatar.com/). It simply converts an email to an image url. Get the last release of Gravimage on [NuGet](https://www.nuget.org/packages/Gravimage/) or on [GitHub](https://github.com/aloisdg/Gravimage/releases).
 
 ## Demo
 
@@ -13,10 +13,6 @@ A tiny client for [Gravatar](https://secure.gravatar.com/). It just converts an 
 | Gravimage |     x     |     x     |     x    |          |     x    |    x     |    x     |
 
 _[learn more](https://secure.gravatar.com/site/implement/images/)_
-
-## Feature Done v1.1.0.0
-
-_soon ..._
 
 ## Bug Reports & Feature Requests
 
