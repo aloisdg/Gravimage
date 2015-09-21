@@ -2,6 +2,8 @@
 
 A tiny client for [Gravatar](https://secure.gravatar.com/). It simply converts an email to an image url. Get the last release of Gravimage on [NuGet](https://www.nuget.org/packages/Gravimage/) or on [GitHub](https://github.com/aloisdg/Gravimage/releases).
 
+[![Build status](https://ci.appveyor.com/api/projects/status/d2tsap91qd3kyec3?svg=true)](https://ci.appveyor.com/project/aloisdg/gravimage)
+
 ## Demo
 
 [![Demo Gravimage](https://j.gifs.com/KRa8oP.gif)](https://www.youtube.com/watch?v=V9Tj5d8X1LI)
