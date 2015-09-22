@@ -1,8 +1,8 @@
 # Gravimage
 
-A tiny client for [Gravatar](https://secure.gravatar.com/). It simply converts an email to an image url. Get the last release of Gravimage on [NuGet](https://www.nuget.org/packages/Gravimage/) or on [GitHub](https://github.com/aloisdg/Gravimage/releases).
+A tiny client for [Gravatar](https://secure.gravatar.com/). It simply converts an email to an image url. Get the last release of Gravimage on [NuGet](https://www.nuget.org/packages/Gravimage/) or on [GitHub]().
 
-[![Build status](https://ci.appveyor.com/api/projects/status/d2tsap91qd3kyec3?svg=true)](https://ci.appveyor.com/project/aloisdg/gravimage)
+![Build](https://img.shields.io/badge/Build-:-lightgrey.svg?style=flat-square) [![AppVeyor](https://img.shields.io/appveyor/ci/aloisdg/Gravimage.svg?style=flat-square)](https://ci.appveyor.com/project/aloisdg/gravimage) ![Version](https://img.shields.io/badge/Version-:-lightgrey.svg?style=flat-square) [![NuGet](https://img.shields.io/nuget/v/Gravimage.svg?style=flat-square)](https://www.nuget.org/packages/Gravimage/) [![GitHub release](https://img.shields.io/github/release/aloisdg/gravimage.svg?style=flat-square)](https://github.com/aloisdg/Gravimage/releases/latest) ![Miscellaneous](https://img.shields.io/badge/Miscellaneous-:-lightgrey.svg?style=flat-square) [![GitHub license](https://img.shields.io/github/license/aloisdg/gravimage.svg?style=flat-square)](https://github.com/aloisdg/Gravimage/blob/master/License)
 
 ## Demo
 
